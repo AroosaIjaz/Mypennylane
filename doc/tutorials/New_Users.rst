@@ -12,7 +12,7 @@ These step-by-step tutorials familiarize the user with the basics of PennyLane. 
    :maxdepth: 1
    :hidden:
    :titlesonly:
-  
+
    make_your_first_quantum_circuit.ipynp
    get_to_know_the_operations.ipynb
    prepare_your_first_quantum_state.ipynb

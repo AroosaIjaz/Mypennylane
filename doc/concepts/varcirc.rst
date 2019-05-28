@@ -60,7 +60,7 @@ Beyond the basic rule that the inputs and parameters :math:`(x;\bm{\theta})` are
 
 
 Data Handling
---------
+-------------
 
 Data-embedding
 ~~~~~~~~~~~~~~
