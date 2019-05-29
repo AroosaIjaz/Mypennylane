@@ -134,6 +134,7 @@ PennyLane is **free** and **open source**, released under the Apache License, Ve
    installing
    plugins
    research
+   Get Help<https://discuss.pennylane.ai/>
 
 .. toctree::
    :maxdepth: 1
@@ -212,14 +213,6 @@ PennyLane is **free** and **open source**, released under the Apache License, Ve
    plugins/default_qubit
    plugins/default_gaussian
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Get Help
-   :hidden:
-
-   Help/help_page
-   Help/feedback_page
-   Help/development_page
 
 :html:`<h2>Indices and tables</h2>`
 
