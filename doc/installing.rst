@@ -35,7 +35,7 @@ Installation of PennyLane, as well as all required Python packages mentioned abo
 
 Make sure you are using the Python 3 version of pip.
 
-Alternatively, you can install PennyLane from the source code on Github by navigating to the top-level directory and running
+Alternatively, you can install PennyLane from the source code on Github by running
 ::
 
 	$ git clone https://github.com/XanaduAI/pennylane
